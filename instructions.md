@@ -78,7 +78,7 @@ Example structure for JSON Data 2 (Current Investment State) is as follows:
 ### Considerations
 - **Factor in Transaction Fees**: Upbit charges a transaction fee of 0.05%. Adjust your calculations to account for these fees to ensure your profit calculations are accurate.
 - **Account for Market Slippage**: Especially relevant when large orders are placed. Analyze the orderbook to anticipate the impact of slippage on your transactions.
-- Remember, To sell, btc_avg_buy_price They sell it when it's above the market price But the price of btc_avg_buy_price If it's more than 20% below the market price, you can sell it then.
+- Never sell at a loss when you sell
 - Remember, the first principle is not to lose money. The second principle: never forget the first principle.
 - Remember, successful investment strategies require balancing aggressive returns with careful risk assessment. Utilize a holistic view of market data, technical indicators, and current status to inform your strategies.
 - Consider setting predefined criteria for what constitutes a profitable strategy and the conditions under which penalties apply to refine the incentives for the analysis engine.
